@@ -7,7 +7,7 @@ function tabuada() {
         var n = Number(num.value)
         var c = 1
         while (c <= 10) {
-            
+            var item = document.createElement('option')
         }
     }
 }
